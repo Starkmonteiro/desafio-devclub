@@ -1,0 +1,91 @@
+.roboto-uniquifier> {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+
+
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.Link-menu {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233d;
+    margin-right: 32px;
+    cursor: pointer;
+
+}
+
+.button-sign-up {
+
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    left: 420px;
+    cursor: pointer;
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+}
+
+.logo {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+
+div{
+    display: inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+
+h1 {
+
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    color: #161a49;
+
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    margin: 47px 0  55px;
+    
+}
+
+.button-learn-more {
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    background: transparent;
+    border: none;
+}
+
+
+    
